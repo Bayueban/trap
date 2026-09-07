@@ -1,0 +1,8 @@
+.DS_Store
+
+# Superseded assets retained locally but not published with the current site.
+assets/traveler-media/
+assets/emei-mountain.png
+assets/hero-sichuan.png
+assets/panda-bamboo.png
+assets/teahouse.png
